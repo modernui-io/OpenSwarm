@@ -148,7 +148,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.env
 
 # Spyder project settings
 .spyderproject
@@ -184,3 +183,4 @@ cython_debug/
 .agency_swarm/
 third_party/
 .claude/
+config.bat
